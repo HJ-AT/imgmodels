@@ -1,0 +1,35 @@
+section{
+	margin: 3rem;
+	/* background-color: antiquewhite; */
+}
+
+img {
+  margin: 1rem;	
+  display: block;
+  margin-left: auto;
+  margin-right: auto;  
+  width: 500px; 
+  height: 700px;
+  object-fit: contain;
+}
+
+.portfolio-menu{
+	text-align:center;
+}
+
+
+.portfolio-item{
+	width:100%;
+}
+.portfolio-item .item{
+	width:303px;
+	float:left;
+	margin-bottom:10px;
+}
+
+#footer{
+  margin-top: 8rem;
+  margin-bottom: auto;
+}
+
+
